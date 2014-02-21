@@ -11,7 +11,7 @@ public class ATestScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		print("This Is Devens Test Script I Dont Want To See It Change");
+		print("A has Been Edited Yo");
 	}
 	
 	// Update is called once per frame
